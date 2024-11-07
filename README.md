@@ -66,7 +66,7 @@ If the phone number does not match any of these country codes, the program will 
 
 ## License
 
-This program is free to use and distribute under the MIT License.
+There is no license Available
 
 ---
 
