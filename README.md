@@ -70,4 +70,3 @@ This program is free to use and distribute under the MIT License.
 
 ---
 
-Feel free to modify this `README` based on any further changes or additions you make to the program!
